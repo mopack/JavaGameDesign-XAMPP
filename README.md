@@ -1,5 +1,9 @@
 # "Super Monster Smash" Game Project
 
+
+![](Images/Snapshot.png "Game Snapshot")
+
+
 ## Origin
 
 A couples of friends of mine and I decided to make an online webpage card game in a summer vacation.  
